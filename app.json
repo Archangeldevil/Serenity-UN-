@@ -1,0 +1,66 @@
+{
+   "name": "Vortex",
+   "description": "hmm no time",
+   "repository": "https://github.com/Kajukatliii/vortex",
+   "buildpacks": [
+    {
+      "url": "heroku/python"
+    }     
+  ],      
+   "env": {
+      "API_ID_KEY": {
+         "description": "id",
+         "value": ""
+      },
+      "API_HASH_KEY": {
+         "description": "app hash.",
+         "value": ""
+      },
+      "STRING_SESSION": {
+         "description": "session ",
+         "value": ""
+      },    
+      "HEROKU_API_KEY": {
+         "description": "get from heroku settings.",
+         "value": ""
+      },      
+      "SIBYL": {
+         "description": "readme.",
+         "value": "2034826906"
+      },
+      "Inspectors": {
+         "description": "see readme",
+         "value": "2034826906"
+      },
+      "Enforcers": {
+         "description": "readme plz",
+         "value": "1954447359"
+      },
+      "MONGO_DB_URL": {
+         "description": "mongodb.com go get it.. see channel infotel autofilter bot tute",
+         "value": ""
+      },
+      "Sibyl_logs": {
+         "description": "radme.",
+         "value": "-1001716653074"
+      },      
+      "Sibyl_Approved_Logs": {
+         "description": "readme",
+         "value": "-1001590162433"
+      },
+      "GBAN_MSG_LOGS": {
+         "description": "readme",
+         "value": "-1001590162433"
+      },
+      "BOT_TOKEN": {
+         "description": "get from bot.f",
+         "value": ""
+      },
+      "ENV": {
+         "description": "Nope. Don't change",
+         "required": false,
+         "value": "ANYTHING"
+      }
+
+   }
+}

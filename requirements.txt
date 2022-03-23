@@ -1,0 +1,7 @@
+https://github.com/New-dev0/Telethon/archive/patch-8.zip
+aiohttp
+motor 
+heroku3
+pillow
+dnspython
+spamwatch
