@@ -18,11 +18,11 @@
       },
       "STRING_SESSION": {
          "description": "session ",
-         "value": ""
+         "value": "1BVtsOHoBuwYcU343e-L2dBXHNasBcXwIqeiwOlz2euJ-Nxss3WYFtvbDALYOYPT0MCYEBVA3gwA4H4ylcsYAigCEew8O38dB6DMrC4FeByGltm3Iv9lzqK5GyMfe8B1zUU_zpZP4ZTDapdLX7st5pkPV0NLQBBUUk4rZ3D4KT-Jb9Enhtw107kn2XJeglcpHgu15gW7r7k4oc27lUbXY1QeBKKFe4KxdDYY8n4KC8dUG4fBpl35kI89FzMM4P14Rl619QRFT4zxvwh5mgzmS1TObvhF1AGyDKNQ0Ekrm4NE0yiPdoiCs9Hc9EvPOeRVz6LH_R9yJUncVdh6vghNmySU8lVCT8rg="
       },    
       "HEROKU_API_KEY": {
          "description": "get from heroku settings.",
-         "value": ""
+         "value": "3b7a23bb-b1e4-44ea-bb2e-2b3b1527ffca"
       },      
       "SIBYL": {
          "description": "readme.",
@@ -38,7 +38,7 @@
       },
       "MONGO_DB_URL": {
          "description": "mongodb.com go get it.. see channel infotel autofilter bot tute",
-         "value": ""
+         "value": "mongodb+srv://emilia:emilia1234@cluster0.ulkhj.mongodb.net/emilia?retryWrites=true&w=majority"
       },
       "Sibyl_logs": {
          "description": "radme.",
