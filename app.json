@@ -1,7 +1,7 @@
 {
-   "name": "Vortex",
-   "description": "hmm no time",
-   "repository": "https://github.com/Kajukatliii/vortex",
+   "name": "Serenity•UN",
+   "description": "Let's skip to the good part",
+   "repository": "https://github.com/Archangeldevil/Serenity-UN-",
    "buildpacks": [
     {
       "url": "heroku/python"
@@ -10,11 +10,11 @@
    "env": {
       "API_ID_KEY": {
          "description": "id",
-         "value": ""
+         "value": "9894592"
       },
       "API_HASH_KEY": {
          "description": "app hash.",
-         "value": ""
+         "value": "4dd02d7fba33886a05d94ed5ea7b4a20"
       },
       "STRING_SESSION": {
          "description": "session ",
@@ -26,15 +26,15 @@
       },      
       "SIBYL": {
          "description": "readme.",
-         "value": "2034826906"
+         "value": "1435293433"
       },
       "Inspectors": {
          "description": "see readme",
-         "value": "2034826906"
+         "value": "1435293433"
       },
       "Enforcers": {
          "description": "readme plz",
-         "value": "1954447359"
+         "value": ""
       },
       "MONGO_DB_URL": {
          "description": "mongodb.com go get it.. see channel infotel autofilter bot tute",
@@ -42,19 +42,19 @@
       },
       "Sibyl_logs": {
          "description": "radme.",
-         "value": "-1001716653074"
+         "value": "-1001182230910"
       },      
       "Sibyl_Approved_Logs": {
          "description": "readme",
-         "value": "-1001590162433"
+         "value": "-1001672283311"
       },
       "GBAN_MSG_LOGS": {
          "description": "readme",
-         "value": "-1001590162433"
+         "value": "-1001717968476"
       },
       "BOT_TOKEN": {
          "description": "get from bot.f",
-         "value": ""
+         "value": "5220271940:AAHkp4qze_RCJ5mYzs4i1UAdgBDzEhDWE28"
       },
       "ENV": {
          "description": "Nope. Don't change",
