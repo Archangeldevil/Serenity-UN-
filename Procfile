@@ -1,1 +1,1 @@
-worker: python3 -m Vortex
+worker: python3 -m Serenity
