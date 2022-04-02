@@ -1,6 +1,6 @@
 from .. import System, Sibyl_logs, GBAN_MSG_LOGS, Sibyl_approved_logs as kek
 from telethon.tl.functions.channels import GetFullChannelRequest
-from .Mongo_DB.gbans import update_gban
+from .MONGO_DB.gbans import update_gban
 from telethon.tl.types import ChannelParticipantsAdmins
 import asyncio
 from Serenity import System, system_cmd
