@@ -16,7 +16,7 @@ from Serenity import (
     API_ID_KEY,
     API_HASH_KEY,
 )
-from Serenity.plugins.Mongo_DB.gbans import update_gban, delete_gban
+from Serenity.plugins.MONGO_DB.gbans import update_gban, delete_gban
 
 
 class SibylClient(TelegramClient):
