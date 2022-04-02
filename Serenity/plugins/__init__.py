@@ -2,7 +2,7 @@
 
 to_load = [
     "main_manager",
-    "whois",
+    #"whois",
     "extras",
    # "blacklist",
     "safe",
