@@ -1,5 +1,5 @@
 from Serenity import Sibyl_logs, ENFORCERS, SIBYL, INSPECTORS
-from Vortex.strings import (
+from Serenity.strings import (
     scan_request_string,
     reject_string,
     forced_scan_string,
