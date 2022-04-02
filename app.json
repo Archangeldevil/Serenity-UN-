@@ -38,8 +38,7 @@
       },
       "MONGO_DB_URL": {
          "description": "mongodb.com go get it.. see channel infotel autofilter bot tute",
-         "value": "『𝐈ɴ𝐃🇮🇳 』 Itz Me #Ø₣₣Ⱡł₦Ɇ:
-mongodb+srv://Db1:db1@cluster0.xfklr.mongodb.net/Cluster0?retryWrites=true&w=majority"
+         "value": "mongodb+srv://naman:naman@cluster0.8uprz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
       "Sibyl_logs": {
          "description": "radme.",
