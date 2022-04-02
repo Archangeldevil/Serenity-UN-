@@ -4,7 +4,7 @@ to_load = [
     "main_manager",
     "whois",
     "extras",
-    "blacklist",
+   # "blacklist",
     "safe",
     "eval",
     "id_maker",
