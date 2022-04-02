@@ -1,7 +1,7 @@
-from Vortex import System, session, INSPECTORS, ENFORCERS, Sibyl_logs
-from Vortex.strings import proof_string, scan_request_string, reject_string
-from Vortex.plugins.Mongo_DB.gbans import get_gban, get_gban_by_proofid
-import Vortex.plugins.Mongo_DB.bot_settings as db
+from Serenity import System, session, INSPECTORS, ENFORCERS, Sibyl_logs
+from Serenity.strings import proof_string, scan_request_string, reject_string
+from Serenity.plugins.Mongo_DB.gbans import get_gban, get_gban_by_proofid
+import Serenity.plugins.Mongo_DB.bot_settings as db
 
 from telethon import events, custom
 
